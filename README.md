@@ -5,20 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.1.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* In taskify 
+   1. we are manage task list and on clicking checkbox perform complete the task functionality using stimulus
+   2. Creating new task by clicking on New task button. using tubro frame tag for this functionality
+   3. Edit the task also using tubro frame
+   4. Searching the task 
+   5. Deleting a task using stimulus method.     
